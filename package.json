@@ -1,0 +1,19 @@
+{
+	"name": "flopper",
+	"version": "1.0.0",
+	"description": "RxJs Based Event System",
+	"main": "dist/index.js",
+	"type": "module",
+	"author": "Patrik Forsberg <patrik@coldmind.com>",
+	"license": "MPL-2.0",
+	"dependencies": {
+		"dina-common": "^1.0.3",
+		"rxjs": "^7.5.7",
+		"tsyringe": "^4.7.0",
+		"uuid": "^9.0.0"
+	},
+	"devDependencies": {
+		"@types/node": "^18.11.2",
+		"@types/uuid": "^8.3.4"
+	}
+}
